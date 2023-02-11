@@ -57,11 +57,11 @@ EQST0002
 147 You are being bandaged. Stay relatively still.
 148 You can't try to forage while attacking.
 149 You must be standing to forage.
-150 You have scrounged up some fishing grubs.
-151 You have scrounged up some water.
-152 You have scrounged up some food.
-153 You have scrounged up some drink.
-154 You have scrounged up something that doesn't look edible.
+150 You have scrounged up something.
+151 You have scrounged up something.
+152 You have scrounged up something.
+153 You have scrounged up something.
+154 You have scrounged up something.
 155 You fail to locate any food nearby.
 156 You are already fishing!
 157 You must be on dry land to fish.
@@ -5529,7 +5529,7 @@ EQST0002
 12203 %1  You have taken %2 points of damage.
 12204 %1  You have taken %2 point of damage.
 12205 You begin casting %1.
-12206 %1 begins to cast a spell.
+12206 %9
 12207 %1%2
 12208 Item Cast Time (%1)
 12209 he
@@ -6740,7 +6740,7 @@ EQST0002
 13915 Pick Pockets
 13916 Stringed Instruments
 13917 Swimming
-13918 Tailoring
+13918 Crafting
 13919 Throwing
 13920 Tiger Claw
 13921 Tracking

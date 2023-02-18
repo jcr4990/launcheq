@@ -586,7 +586,7 @@
 			</Size>
 		</Frames>
 	</Ui2DAnimation>
-	<Ui2DAnimation item="MonkIcon">
+	<Ui2DAnimation item="DiscipleIcon">
 		<Cycle>false</Cycle>
 		<Grid>false</Grid>
 		<Frames>
@@ -601,7 +601,7 @@
 			</Size>
 		</Frames>
 	</Ui2DAnimation>
-	<Ui2DAnimation item="RangerIcon">
+	<Ui2DAnimation item="HunterIcon">
 		<Cycle>false</Cycle>
 		<Grid>false</Grid>
 		<Frames>
@@ -826,7 +826,7 @@
 			</Size>
 		</Frames>
 	</Ui2DAnimation>
-	<Ui2DAnimation item="MonkDisabledIcon">
+	<Ui2DAnimation item="DiscipleDisabledIcon">
 		<Cycle>false</Cycle>
 		<Grid>false</Grid>
 		<Frames>
@@ -841,7 +841,7 @@
 			</Size>
 		</Frames>
 	</Ui2DAnimation>
-	<Ui2DAnimation item="RangerDisabledIcon">
+	<Ui2DAnimation item="HunterDisabledIcon">
 		<Cycle>false</Cycle>
 		<Grid>false</Grid>
 		<Frames>
@@ -2860,8 +2860,8 @@
 			<CY>48</CY>
 		</DecalSize>
 	</Button>
-	<Button item="CC_Class_Monk_Button">
-		<ScreenID>CC_Class_Monk_Button</ScreenID>
+	<Button item="CC_Class_Disciple_Button">
+		<ScreenID>CC_Class_Disciple_Button</ScreenID>
 		<RadioGroup>Class</RadioGroup>
 		<RelativePosition>true</RelativePosition>
 		<Location>
@@ -2876,11 +2876,11 @@
 		<ButtonDrawTemplate>
 			<PressedDecal>SelectIcon</PressedDecal>
 			<FlybyDecal>HoverIcon</FlybyDecal>
-			<Normal>MonkIcon</Normal>
-			<Pressed>MonkIcon</Pressed>
-			<Flyby>MonkIcon</Flyby>
-			<Disabled>MonkDisabledIcon</Disabled>
-			<PressedFlyby>MonkIcon</PressedFlyby>
+			<Normal>DiscipleIcon</Normal>
+			<Pressed>DiscipleIcon</Pressed>
+			<Flyby>DiscipleIcon</Flyby>
+			<Disabled>DiscipleDisabledIcon</Disabled>
+			<PressedFlyby>DiscipleIcon</PressedFlyby>
 		</ButtonDrawTemplate>
 		<DecalOffset>
 			<X>0</X>
@@ -2953,8 +2953,8 @@
 			<CY>48</CY>
 		</DecalSize>
 	</Button>
-	<Button item="CC_Class_Ranger_Button">
-		<ScreenID>CC_Class_Ranger_Button</ScreenID>
+	<Button item="CC_Class_Hunter_Button">
+		<ScreenID>CC_Class_Hunter_Button</ScreenID>
 		<RadioGroup>Class</RadioGroup>
 		<RelativePosition>true</RelativePosition>
 		<Location>
@@ -2969,11 +2969,11 @@
 		<ButtonDrawTemplate>
 			<PressedDecal>SelectIcon</PressedDecal>
 			<FlybyDecal>HoverIcon</FlybyDecal>
-			<Normal>RangerIcon</Normal>
-			<Pressed>RangerIcon</Pressed>
-			<Flyby>RangerIcon</Flyby>
-			<Disabled>RangerDisabledIcon</Disabled>
-			<PressedFlyby>RangerIcon</PressedFlyby>
+			<Normal>HunterIcon</Normal>
+			<Pressed>HunterIcon</Pressed>
+			<Flyby>HunterIcon</Flyby>
+			<Disabled>HunterDisabledIcon</Disabled>
+			<PressedFlyby>HunterIcon</PressedFlyby>
 		</ButtonDrawTemplate>
 		<DecalOffset>
 			<X>0</X>
@@ -3265,8 +3265,8 @@
 			<CY>48</CY>
 		</DecalSize>
 	</Button>
-	<Button item="CC_Class_Monk_Overlay_Button">
-		<ScreenID>CC_Class_Monk_Overlay_Button</ScreenID>
+	<Button item="CC_Class_Disciple_Overlay_Button">
+		<ScreenID>CC_Class_Disciple_Overlay_Button</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>144</X>
@@ -3319,8 +3319,8 @@
 			<CY>48</CY>
 		</DecalSize>
 	</Button>
-	<Button item="CC_Class_Ranger_Overlay_Button">
-		<ScreenID>CC_Class_Ranger_Overlay_Button</ScreenID>
+	<Button item="CC_Class_Hunter_Overlay_Button">
+		<ScreenID>CC_Class_Hunter_Overlay_Button</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>96</X>
@@ -3819,9 +3819,9 @@
 		<Pieces>CC_Class_Templar_Button</Pieces>
 		<Pieces>CC_Class_Crusader_Button</Pieces>
 		<Pieces>CC_Class_Death Knight_Button</Pieces>
-		<Pieces>CC_Class_Ranger_Button</Pieces>
+		<Pieces>CC_Class_Hunter_Button</Pieces>
 		<!-- <Pieces>CC_Class_Druid_Button</Pieces> -->
-		<Pieces>CC_Class_Monk_Button</Pieces>
+		<Pieces>CC_Class_Disciple_Button</Pieces>
 		<Pieces>CC_Class_Swashbuckler_Button</Pieces>
 		<!-- <Pieces>CC_Class_Rogue_Button</Pieces> -->
 		<!-- <Pieces>CC_Class_Shaman_Button</Pieces> -->
@@ -3835,9 +3835,9 @@
 		<Pieces>CC_Class_Templar_Overlay_Button</Pieces>
 		<Pieces>CC_Class_Crusader_Overlay_Button</Pieces>
 		<Pieces>CC_Class_Death Knight_Overlay_Button</Pieces>
-		<Pieces>CC_Class_Ranger_Overlay_Button</Pieces>
+		<Pieces>CC_Class_Hunter_Overlay_Button</Pieces>
 		<!-- <Pieces>CC_Class_Druid_Overlay_Button</Pieces> -->
-		<Pieces>CC_Class_Monk_Overlay_Button</Pieces>
+		<Pieces>CC_Class_Disciple_Overlay_Button</Pieces>
 		<Pieces>CC_Class_Swashbuckler_Overlay_Button</Pieces>
 		<!-- <Pieces>CC_Class_Rogue_Overlay_Button</Pieces> -->
 		<!-- <Pieces>CC_Class_Shaman_Overlay_Button</Pieces> -->

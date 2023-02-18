@@ -1100,7 +1100,7 @@ EQST0002
 1515 Reaver
 1516 Revenant
 1517 Grave Lord
-1518 Ranger
+1518 Hunter
 1519 Pathfinder
 1520 Outrider
 1521 Warder
@@ -1108,7 +1108,7 @@ EQST0002
 1523 Wanderer
 1524 Preserver
 1525 Hierophant
-1526 Monk
+1526 Disciple
 1527 Disciple
 1528 Master
 1529 Grandmaster
@@ -1827,9 +1827,9 @@ EQST0002
 3066 TMP
 3067 CRU
 3068 DKN
-3069 RNG
+3069 HNT
 3070 DRU
-3071 MNK
+3071 DIS
 3072 SWS
 3073 ROG
 3074 SHM

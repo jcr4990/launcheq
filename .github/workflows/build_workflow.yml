@@ -67,3 +67,4 @@ jobs:
           bin/launcheq.exe
           bin/launcheq-hash.txt
           rof/filelist_rof.yml
+          rof/patch.zip

@@ -1,4 +1,4 @@
-33
+37
 fis,tox_chr
 swo,kedge_chr
 luj,luj_chr
@@ -17,6 +17,7 @@ dsg,dsg
 sdr,sdr
 dre,dre
 fng,fng
+fgp,fgp
 snk,snk
 fry,fry
 wlf,wlf
@@ -31,4 +32,7 @@ mtr,mtr
 she,she
 bur,bur
 mud,mud
+nym,nym_chr
+qcm,qeynos_chr
 gfo,gfo
+efr,soltemple_chr

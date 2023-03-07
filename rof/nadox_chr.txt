@@ -1,4 +1,4 @@
-40
+41
 sha,oot_chr
 ikh,karnor_chr
 hag,frozenshadow_chr
@@ -39,3 +39,4 @@ amy,amy
 dsb,potimeb_chr
 zeb,potimeb_chr
 slg,powater_chr
+bub,podisease_chr

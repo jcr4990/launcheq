@@ -319,7 +319,7 @@ EQST0002
 409 I will not fight you, but I shall banish you!
 410 You have gained the ability "%B1(1)" at a cost of %2 ability %T3.
 411 You have improved %B1(1) %2 at a cost of %3 ability %T4.
-412 You taunt %1 to ignore others and attack you!
+412 %9
 413 You can use the ability %B1(1) again in %2 hour(s) %3 minute(s) %4 seconds.
 414 You can use the ability %B1(1) again in %2 minute(s) %3 seconds.
 415 The ability %B1(1) is not available to your class!
@@ -3295,7 +3295,7 @@ EQST0002
 5808 You can use the ability %1 again in %2 minute(s) %3 seconds.
 5809 End: %1
 5810 BER
-5811 You have failed to taunt your target.
+5811 %9
 5812 Combat Effect:  %1
 5813 You received an Offensive Opening!
 5814 You received a Defensive Opening!
@@ -5720,7 +5720,7 @@ EQST0002
 12394 You need to equip a shield in order to BASH
 12395 You must target an NPC to taunt first.
 12396 You can't taunt inanimate objects.
-12397 You taunt %1 to ignore others and attack you!
+12397 %9
 12398 You must have a target to intimidate!
 12399 Nothing happens.
 12400 Stand up first!

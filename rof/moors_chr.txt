@@ -1,4 +1,4 @@
-37
+38
 fis,tox_chr
 swo,kedge_chr
 luj,luj_chr
@@ -36,3 +36,4 @@ nym,nym_chr
 qcm,qeynos_chr
 gfo,gfo
 efr,soltemple_chr
+tre,southkarana_chr

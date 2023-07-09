@@ -1,4 +1,4 @@
-25
+26
 liz,liz_chr
 skn,skn_chr
 mos,mos_chr
@@ -24,3 +24,4 @@ fgp,fgp
 rkp,rkp
 udk,udk_chr
 kar,kar_chr
+clm,steamfont_chr

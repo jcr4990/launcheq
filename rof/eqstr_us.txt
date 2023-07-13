@@ -1061,7 +1061,7 @@ EQST0002
 1462 You can't reach that, get closer.
 1463 Retrieving messages.  Please wait...
 1464 You must get closer to the Message Board to read it.
-1465 %1 tells you, 'Welcome to da bank'
+1465 %1 tells you, 'Welcome to the bank'
 1466 Auto attack off.
 1467 You are not a member of the %1 class guild.  Begone.
 1468 That Trader is currently with a customer. Please wait until their transaction is finished.

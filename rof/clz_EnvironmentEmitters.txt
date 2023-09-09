@@ -1,0 +1,2 @@
+Name^EmitterDefIdx^X^Y^Z^Lifespan
+campfire^77^-18.62^9.88^3^90000000

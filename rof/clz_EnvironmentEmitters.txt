@@ -1,2 +1,3 @@
 Name^EmitterDefIdx^X^Y^Z^Lifespan
 campfire^77^-18.62^9.88^3^90000000
+dorn_floaty^248^-41.84^-17.48^2^90000000

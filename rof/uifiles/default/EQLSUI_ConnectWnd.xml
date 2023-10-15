@@ -8,7 +8,8 @@
 		<Font>4</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>775</X>
+			<!-- <X>775</X> -->
+			<X>835</X>
 			<Y>600</Y>
 		</Location>
 		<Size>
@@ -36,7 +37,8 @@
 		<Font>4</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>775</X>
+			<!-- <X>775</X> -->
+			<X>835</X>
 			<Y>650</Y>
 		</Location>
 		<Size>
@@ -125,7 +127,8 @@
 		<Font>2</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>772</X>
+			<!-- <X>772</X> -->
+			<X>832</X>
 			<Y>450</Y>
 		</Location>
 		<Size>
@@ -147,7 +150,8 @@
 		<Font>2</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>772</X>
+			<!-- <X>772</X> -->
+			<X>832</X>
 			<Y>520</Y>
 		</Location>
 		<Size>
@@ -170,7 +174,8 @@
 		<Font>3</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>772</X>
+			<!-- <X>772</X> -->
+			<X>832</X>
 			<Y>695</Y>
 		</Location>
 		<Size>
@@ -198,7 +203,8 @@
 		<Style_Border>true</Style_Border>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>772</X>
+			<!-- <X>772</X> -->
+			<X>832</X>
 			<Y>470</Y>
 		</Location>
 		<Size>
@@ -218,7 +224,8 @@
 		<Style_Border>true</Style_Border>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>772</X>
+			<!-- <X>772</X> -->
+			<X>832</X>
 			<Y>540</Y>
 		</Location>
 		<Size>

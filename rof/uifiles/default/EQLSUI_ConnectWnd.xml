@@ -5,10 +5,9 @@
 <!-- Buttons -->
 	<Button item = "LOGIN_ConnectButton">
 		<ScreenID>ConnectButton</ScreenID>
-		<Font>4</Font>
+		<Font>5</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<!-- <X>775</X> -->
 			<X>835</X>
 			<Y>600</Y>
 		</Location>
@@ -18,7 +17,7 @@
 		</Size>
 		<TooltipReference>Log in</TooltipReference>
 		<Style_Checkbox>false</Style_Checkbox>
-		<Text>LOGIN</Text>
+		<Text>Login</Text>
 		<TextColor>
 				<R>255</R>
 				<G>255</G>
@@ -34,7 +33,7 @@
 	</Button>
 	<Button item = "LOGIN_QuickConnectButton">
 		<ScreenID>QuickConnectButton</ScreenID>
-		<Font>4</Font>
+		<Font>5</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<!-- <X>775</X> -->
@@ -47,7 +46,7 @@
 		</Size>
 		<TooltipReference>Quick connect to last server</TooltipReference>
 		<Style_Checkbox>false</Style_Checkbox>
-		<Text>QUICK CONNECT</Text>
+		<Text>Quick Connect</Text>
 		<NoWrap>false</NoWrap>
 		<TextColor>
 				<R>255</R>
@@ -96,7 +95,7 @@
 		<Font>4</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>835</X>
+			<X>900</X>
 			<Y>750</Y>
 		</Location>
 		<Size>
@@ -124,18 +123,17 @@
 <!-- Lables -->
 	<Label item = "LOGIN_UsernameLabel">
 		<ScreenID>UsernameLabel</ScreenID>
-		<Font>2</Font>
+		<Font>5</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<!-- <X>772</X> -->
 			<X>832</X>
-			<Y>450</Y>
+			<Y>400</Y>
 		</Location>
 		<Size>
 			<CX>250</CX>
-			<CY>15</CY>
+			<CY>20</CY>
 		</Size>
-		<Text>USERNAME</Text>
+		<Text>Username</Text>
 		<TextColor>
 				<R>255</R>
 				<G>255</G>
@@ -147,18 +145,17 @@
 	</Label>
 	<Label item = "LOGIN_PasswordLabel">
 		<ScreenID>PasswordLabel</ScreenID>
-		<Font>2</Font>
+		<Font>5</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<!-- <X>772</X> -->
 			<X>832</X>
-			<Y>520</Y>
+			<Y>490</Y>
 		</Location>
 		<Size>
 			<CX>250</CX>
-			<CY>15</CY>
+			<CY>20</CY>
 		</Size>
-		<Text>PASSWORD</Text>
+		<Text>Password</Text>
 		<TextColor>
 				<R>255</R>
 				<G>255</G>
@@ -171,16 +168,15 @@
 
 	<Label item = "LOGIN_QuickConnectToLabel">
 		<ScreenID>QuickConnectToLabel</ScreenID>
-		<Font>3</Font>
+		<Font>5</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<!-- <X>772</X> -->
 			<X>832</X>
-			<Y>695</Y>
+			<Y>700</Y>
 		</Location>
 		<Size>
 			<CX>250</CX>
-			<CY>15</CY>
+			<CY>20</CY>
 		</Size>
 		<Text>(SERVER NAME)</Text>
 		<TextColor>
@@ -198,14 +194,14 @@
 <!-- Edit boxes -->
 	<Editbox item = "LOGIN_UsernameEdit">
 		<ScreenID>UsernameEdit</ScreenID>
-		<Font>4</Font>
+		<Font>5</Font>
 		<DrawTemplate>WDT_EQLS_Def_Bordered</DrawTemplate>
 		<Style_Border>true</Style_Border>
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<!-- <X>772</X> -->
 			<X>832</X>
-			<Y>470</Y>
+			<Y>430</Y>
 		</Location>
 		<Size>
 			<CX>250</CX>
@@ -226,7 +222,7 @@
 		<Location>
 			<!-- <X>772</X> -->
 			<X>832</X>
-			<Y>540</Y>
+			<Y>520</Y>
 		</Location>
 		<Size>
 			<CX>250</CX>

@@ -257,8 +257,8 @@
 				<Y>0</Y>
 			</Location>
 			<Size>
-				<CX>256</CX>
-				<CY>256</CY>
+				<CX>1920</CX>
+				<CY>1080</CY>
 			</Size>
 			<Hotspot>
 				<X>0</X>
@@ -453,8 +453,8 @@
 			<Y>0</Y>
 		</Location>
 		<Size>
-			<CX>256</CX>
-			<CY>256</CY>
+			<CX>1920</CX>
+			<CY>1080</CY>
 		</Size>
 		<Animation>A_AltBG01</Animation>
 	</StaticAnimation>

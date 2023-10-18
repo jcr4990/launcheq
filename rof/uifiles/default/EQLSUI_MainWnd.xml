@@ -4,10 +4,10 @@
 <!-- Buttons -->
 	<Button item = "MAIN_ConnectButton">
 		<ScreenID>ConnectButton</ScreenID>
-		<Font>4</Font>
+		<Font>5</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>775</X>
+			<X>835</X>
 			<Y>450</Y>
 		</Location>
 		<Size>
@@ -16,7 +16,7 @@
 		</Size>
 		<TooltipReference>Go to the login screen</TooltipReference>
 		<Style_Checkbox>false</Style_Checkbox>
-		<Text>LOGIN</Text>
+		<Text>Login</Text>
 		<TextColor>
 				<R>255</R>
 				<G>255</G>
@@ -116,10 +116,10 @@
 	</Button>
 	<Button item = "MAIN_OptionsButton">
 		<ScreenID>OptionsButton</ScreenID>
-		<Font>4</Font>
+		<Font>5</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>775</X>
+			<X>835</X>
 			<Y>500</Y>
 		</Location>
 		<Size>
@@ -128,7 +128,7 @@
 		</Size>
 		<TooltipReference>Launchs the options editor which allows you to change your game options</TooltipReference>
 		<Style_Checkbox>false</Style_Checkbox>
-		<Text>OPTIONS</Text>
+		<Text>Options</Text>
 		<TextColor>
 				<R>255</R>
 				<G>255</G>
@@ -144,10 +144,10 @@
 	</Button>
 	<Button item = "MAIN_ExitButton">
 		<ScreenID>ExitButton</ScreenID>
-		<Font>4</Font>
+		<Font>5</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>775</X>
+			<X>835</X>
 			<Y>550</Y>
 		</Location>
 		<Size>
@@ -156,7 +156,7 @@
 		</Size>
 		<TooltipReference>Exit the login client</TooltipReference>
 		<Style_Checkbox>false</Style_Checkbox>
-		<Text>EXIT</Text>
+		<Text>Exit</Text>
 		<TextColor>
 				<R>255</R>
 				<G>255</G>

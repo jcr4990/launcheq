@@ -37,7 +37,7 @@
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>40</X>
-			<Y>425</Y>
+			<Y>680</Y>
 		</Location>
 		<Size>
 			<CX>115</CX>
@@ -120,8 +120,8 @@
 		<Font>4</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>378</X>
-			<Y>390</Y>
+			<X>740</X>
+			<Y>680</Y>
 		</Location>
 		<Size>
 			<CX>244</CX>
@@ -129,7 +129,7 @@
 		</Size>
 		<TooltipReference>Start the game!</TooltipReference>
 		<Style_Checkbox>false</Style_Checkbox>
-		<Text>PLAY EVERQUEST!</Text>
+		<Text>Play!</Text>
 		<TextColor>
 				<R>255</R>
 				<G>255</G>
@@ -148,8 +148,8 @@
 		<Font>4</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>378</X>
-			<Y>425</Y>
+			<X>485</X>
+			<Y>680</Y>
 		</Location>
 		<Size>
 			<CX>244</CX>
@@ -272,17 +272,17 @@
 	</Label>
 	<Label item = "SERVERSELECT_LastServerLabel">
 		<ScreenID>LastServerLabel</ScreenID>
-		<Font>2</Font>
+		<Font>4</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>280</X>
-			<Y>428</Y>
+			<X>557</X>
+			<Y>720</Y>
 		</Location>
 		<Size>
 			<CX>94</CX>
 			<CY>40</CY>
 		</Size>
-		<Text>QUICK CONNECT TO LAST SERVER</Text>
+		<Text>Quick Connect</Text>
 		<TextColor>
 				<R>255</R>
 				<G>255</G>
@@ -302,9 +302,9 @@
 		<RelativePosition>true</RelativePosition>
 
 		<AutoStretch>true</AutoStretch>
-		<LeftAnchorOffset>40</LeftAnchorOffset>
-		<TopAnchorOffset>70</TopAnchorOffset>
-		<RightAnchorOffset>40</RightAnchorOffset>
+		<LeftAnchorOffset>25</LeftAnchorOffset>
+		<TopAnchorOffset>25</TopAnchorOffset>
+		<RightAnchorOffset>25</RightAnchorOffset>
 		<BottomAnchorOffset>105</BottomAnchorOffset>
 		<TopAnchorToTop>true</TopAnchorToTop>
 		<BottomAnchorToTop>false</BottomAnchorToTop>
@@ -360,8 +360,8 @@
 			<Y>0</Y>
 		</Location>
 		<Size>
-			<CX>640</CX>
-			<CY>480</CY>
+			<CX>1024</CX>
+			<CY>768</CY>
 		</Size>
 		<Text>Server Select</Text>
 		<Style_VScroll>false</Style_VScroll>
@@ -374,22 +374,9 @@
 		<Style_Minimizebox>false</Style_Minimizebox>
 		<Style_Border>false</Style_Border>
 		<Style_Sizable>false</Style_Sizable>
-		<Pieces>EQLS_AltBG01</Pieces>
-		<Pieces>EQLS_AltBG02</Pieces>
-		<Pieces>EQLS_AltBG03</Pieces>
-		<Pieces>EQLS_AltBG04</Pieces>
-		<Pieces>EQLS_AltBG05</Pieces>
-		<Pieces>EQLS_AltBG06</Pieces>
-		<!-- <Pieces>SERVERSELECT_NewsButton</Pieces> -->
 		<Pieces>SERVERSELECT_ExitButton</Pieces>
-		<!-- <Pieces>SERVERSELECT_ChatButton</Pieces> -->
-		<!-- <Pieces>SERVERSELECT_CreditsButton</Pieces> -->
 		<Pieces>SERVERSELECT_PlayButton</Pieces>
-		<!-- <Pieces>SERVERSELECT_OrderExpansionButton</Pieces> -->
-		<!-- <Pieces>SERVERSELECT_ExpansionsWindow</Pieces> -->
-		<Pieces>SERVERSELECT_ServerListBackground</Pieces>
 		<Pieces>SERVERSELECT_ServerList</Pieces>
-		<Pieces>SERVERSELECT_ServerListLabel</Pieces>
 		<Pieces>SERVERSELECT_LastServerLabel</Pieces>
 		<Pieces>SERVERSELECT_PlayLastServerButton</Pieces>
 	</Screen>

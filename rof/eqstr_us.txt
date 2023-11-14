@@ -3295,7 +3295,7 @@ EQST0002
 5808 You can use the ability %1 again in %2 minute(s) %3 seconds.
 5809 End: %1
 5810 BER
-5811 %9
+5811  
 5812 Combat Effect:  %1
 5813 You received an Offensive Opening!
 5814 You received a Defensive Opening!

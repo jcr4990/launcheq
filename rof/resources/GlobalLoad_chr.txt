@@ -1,4 +1,4 @@
-28
+29
 liz,liz_chr
 skn,skn_chr
 mos,mos_chr
@@ -27,3 +27,4 @@ kar,kar_chr
 clm,steamfont_chr
 wtf,wtf
 lol,lol
+min,steamfont_chr

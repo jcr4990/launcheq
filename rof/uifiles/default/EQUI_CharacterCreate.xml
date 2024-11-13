@@ -226,7 +226,7 @@
 			</Size>
 		</Frames>
 	</Ui2DAnimation>
-	<Ui2DAnimation item="DrakkinIcon">
+	<Ui2DAnimation item="ZombieIcon">
 		<Cycle>false</Cycle>
 		<Grid>false</Grid>
 		<Frames>
@@ -466,7 +466,7 @@
 			</Size>
 		</Frames>
 	</Ui2DAnimation>
-	<Ui2DAnimation item="DrakkinMaleIcon">
+	<Ui2DAnimation item="ZombieMaleIcon">
 		<Cycle>false</Cycle>
 		<Grid>false</Grid>
 		<Frames>
@@ -1749,8 +1749,8 @@
 			<CY>48</CY>
 		</DecalSize>
 	</Button>
-	<Button item="CC_Race_Drakkin_Button_Male">
-		<ScreenID>CC_Race_Drakkin_Button_Male</ScreenID>
+	<Button item="CC_Race_Zombie_Button_Male">
+		<ScreenID>CC_Race_Zombie_Button_Male</ScreenID>
 		<RadioGroup>RaceMale</RadioGroup>
 		<RelativePosition>true</RelativePosition>
 		<Location>
@@ -1765,11 +1765,11 @@
 		<ButtonDrawTemplate>
 			<PressedDecal>SelectIcon</PressedDecal>
 			<FlybyDecal>HoverIcon</FlybyDecal>
-			<Normal>DrakkinMaleIcon</Normal>
-			<Pressed>DrakkinMaleIcon</Pressed>
-			<Flyby>DrakkinMaleIcon</Flyby>
-			<Disabled>DrakkinMaleIcon</Disabled>
-			<PressedFlyby>DrakkinMaleIcon</PressedFlyby>
+			<Normal>ZombieMaleIcon</Normal>
+			<Pressed>ZombieMaleIcon</Pressed>
+			<Flyby>ZombieMaleIcon</Flyby>
+			<Disabled>ZombieMaleIcon</Disabled>
+			<PressedFlyby>ZombieMaleIcon</PressedFlyby>
 		</ButtonDrawTemplate>
 		<DecalOffset>
 			<X>0</X>
@@ -2245,8 +2245,8 @@
 			<CY>48</CY>
 		</DecalSize>
 	</Button>
-	<Button item="CC_Race_Drakkin_Button">
-		<ScreenID>CC_Race_Drakkin_Button</ScreenID>
+	<Button item="CC_Race_Zombie_Button">
+		<ScreenID>CC_Race_Zombie_Button</ScreenID>
 		<RadioGroup>Race</RadioGroup>
 		<RelativePosition>true</RelativePosition>
 		<Location>
@@ -2261,11 +2261,11 @@
 		<ButtonDrawTemplate>
 			<PressedDecal>SelectIcon</PressedDecal>
 			<FlybyDecal>HoverIcon</FlybyDecal>
-			<Normal>DrakkinIcon</Normal>
-			<Pressed>DrakkinIcon</Pressed>
-			<Flyby>DrakkinIcon</Flyby>
-			<Disabled>DrakkinIcon</Disabled>
-			<PressedFlyby>DrakkinIcon</PressedFlyby>
+			<Normal>ZombieIcon</Normal>
+			<Pressed>ZombieIcon</Pressed>
+			<Flyby>ZombieIcon</Flyby>
+			<Disabled>ZombieIcon</Disabled>
+			<PressedFlyby>ZombieIcon</PressedFlyby>
 		</ButtonDrawTemplate>
 		<DecalOffset>
 			<X>0</X>
@@ -2547,8 +2547,8 @@
 			<CY>48</CY>
 		</DecalSize>
 	</Button>
-	<Button item="CC_Race_Drakkin_Overlay_Button">
-		<ScreenID>CC_Race_Drakkin_Overlay_Button</ScreenID>
+	<Button item="CC_Race_Zombie_Overlay_Button">
+		<ScreenID>CC_Race_Zombie_Overlay_Button</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>144</X>
@@ -3552,7 +3552,7 @@
 		<Pieces>CC_Race_Iksar_Button</Pieces>
 		<Pieces>CC_Race_Vah Shir_Button</Pieces>
 		<Pieces>CC_Race_Froglok_Button</Pieces>
-		<!-- <Pieces>CC_Race_Drakkin_Button</Pieces> -->
+		<Pieces>CC_Race_Zombie_Button</Pieces>
 		<Pieces>CC_Race_Human_Button_Male</Pieces>
 		<Pieces>CC_Race_Barbarian_Button_Male</Pieces>
 		<Pieces>CC_Race_Erudite_Button_Male</Pieces>
@@ -3568,7 +3568,7 @@
 		<Pieces>CC_Race_Iksar_Button_Male</Pieces>
 		<Pieces>CC_Race_Vah Shir_Button_Male</Pieces>
 		<Pieces>CC_Race_Froglok_Button_Male</Pieces>
-		<!-- <Pieces>CC_Race_Drakkin_Button_Male</Pieces> -->
+		<Pieces>CC_Race_Zombie_Button_Male</Pieces>
 		<Pieces>CC_Race_Human_Overlay_Button</Pieces>
 		<Pieces>CC_Race_Barbarian_Overlay_Button</Pieces>
 		<Pieces>CC_Race_Erudite_Overlay_Button</Pieces>
@@ -3584,7 +3584,7 @@
 		<Pieces>CC_Race_Iksar_Overlay_Button</Pieces>
 		<Pieces>CC_Race_Vah Shir_Overlay_Button</Pieces>
 		<Pieces>CC_Race_Froglok_Overlay_Button</Pieces>
-		<!-- <Pieces>CC_Race_Drakkin_Overlay_Button</Pieces> -->
+		<Pieces>CC_Race_Zombie_Overlay_Button</Pieces>
 		<Pieces>CC_RaceAnim</Pieces>
 	</Screen>
 	<Screen item="CC_OptionsScreen">

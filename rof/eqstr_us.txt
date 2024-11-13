@@ -212,7 +212,7 @@ EQST0002
 302 If you consumed any more drink you would explode!
 303 I don't see anyone by that name around here...
 304 You cannot report your text buffer at this time.
-305 DRK
+305 ZOM
 306 You do not Sense any traps.
 307 You are not high enough rank to perform this guild operation.
 308 You cannot create anything until your held slot is empty.
@@ -1542,7 +1542,7 @@ EQST0002
 2241 Scumsuckers
 2242 This spell cannot be cast on group members.
 2243 South Qeynos
-2244 North Qeynos
+2244 Gypsy Castle
 2245 Surefall Glade
 2246 Qeynos Hills
 2247 Highpass Hold
@@ -2085,9 +2085,9 @@ EQST0002
 3352 Your account has no pending rewards.
 3353 Sending your claim request to the server...
 3354 Your claim has been approved, and your reward has been placed in your inventory.
-3355 Slot %1, type %2: %3
+3355 %2: %3
 3356 Augmentation
-3357 This Augmentation fits in slot types: %1
+3357 This fits in slot types: %1
 3358 Restrictions
 3359 Augmentation Sealer
 3362 Your augmentation attempt failed.
@@ -2716,8 +2716,8 @@ EQST0002
 4667 Your %1 message has failed to post.
 4668 Your %1 message has failed to post due an unforeseen connection failure.
 4669 Message sent.
-4670 Drop augment here to install.
-4671 Click to remove augment (Right-click for other options)
+4670 Drop here to install.
+4671 Click to remove (Right-click for other options)
 4672 Open Marketplace to purchase special ornamentation ability
 4673 Drop ornamentation augment here to install.
 4674 Your %1 message has failed to post due to exceeding the posting rate limits set by %2.
@@ -3190,7 +3190,7 @@ EQST0002
 5471 Destroy
 5472 Adding and removing augments no longer requires an Augmentation Sealer. You can now modify an item's augments by simply inspecting the item. To add an augment, pick up the augment and left-click on the desired slot. To remove an augment, left-click on the augment you wish to remove while you aren't holding anything and have the required distiller in your inventory. To destroy an augment, right-click on the augment you wish to destroy and select the Destroy option (this no longer requires a solvent).
 5473 You cannot modify the augments in this item because it is not currently in your inventory.
-5474 The augment cannot be removed because your inventory does not contain the required solvent.
+5474 You cannot remove this without the proper solvent.
 5475 You attempted to insert an item that is not an augment.
 5476 The selected slot was invalid.
 5477 You cannot insert augments into this item.
@@ -3365,7 +3365,7 @@ EQST0002
 5878 Are you sure you wish to DESTROY your %1 augment in %2?
 5879 Are you sure you wish to use %1 to REMOVE your %2 augment from %3?
 5880 Are you sure you wish to INSERT your %1 augment into %2?
-5881 You must use the solvent %1, or a Perfected Augmentation Distiller, to remove this augment safely.
+5881 You must use a %1 to remove this.
 5889 Wall of Slaughter
 5890 The Bloodfields
 5891 Dranik's Scar
@@ -4126,7 +4126,7 @@ EQST0002
 6696 Pitch camera up
 6697 Pitch camera down
 6698 Center camera
-6699 empty
+6699 None
 6700 Pet
 6701 Release mouse cursor
 6702 %1 has denied your request for war.
